@@ -34,3 +34,6 @@ Thumbs.db
 
 # Keep these tracked
 !.gitkeep
+
+# Qmmit (local prompt logs)
+.qmmit/
